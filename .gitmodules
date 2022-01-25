@@ -1,0 +1,3 @@
+[submodule "supersecret"]
+	path = supersecret
+	url = https://github.com/iamape22/supersecret.git
